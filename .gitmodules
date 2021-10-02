@@ -1,0 +1,3 @@
+[submodule "RTOS1_15CO"]
+	path = RTOS1_15CO
+	url = git@github.com:mrds90/RTOS1_15CO.git
