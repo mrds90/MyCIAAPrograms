@@ -4,3 +4,6 @@
 [submodule "ArquitecturaDeMicroprocesadores"]
 	path = ArquitecturaDeMicroprocesadores
 	url = git@github.com:mrds90/ArquitecturaDeMicroprocesadores.git
+[submodule "ADS1115_ControlTemp"]
+	path = ADS1115_ControlTemp
+	url = git@github.com:mrds90/ADS1115_ControlTemp.git
