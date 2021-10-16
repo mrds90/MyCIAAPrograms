@@ -7,3 +7,6 @@
 [submodule "ADS1115_ControlTemp"]
 	path = ADS1115_ControlTemp
 	url = git@github.com:mrds90/ADS1115_ControlTemp.git
+[submodule "PdM_TPFinal"]
+	path = PdM_TPFinal
+	url = git@github.com:mrds90/PdM_TPFinal.git
