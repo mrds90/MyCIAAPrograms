@@ -10,3 +10,6 @@
 [submodule "PdM_TPFinal"]
 	path = PdM_TPFinal
 	url = git@github.com:mrds90/PdM_TPFinal.git
+[submodule "RTOS2_15CO"]
+	path = RTOS2_15CO
+	url = git@github.com:mrds90/RTOS2_15CO.git
