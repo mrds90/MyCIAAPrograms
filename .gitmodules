@@ -13,3 +13,6 @@
 [submodule "RTOS2_15CO"]
 	path = RTOS2_15CO
 	url = git@github.com:mrds90/RTOS2_15CO.git
+[submodule "TestingCese"]
+	path = TestingCese
+	url = git@github.com:mrds90/TestingCese.git
